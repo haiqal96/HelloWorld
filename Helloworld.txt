@@ -1,1 +1,3 @@
-hello saya orang
+hello saya budak baru belajar git hub
+ini hello world saya 
+selamat datang 
